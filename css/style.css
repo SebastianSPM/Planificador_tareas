@@ -1,4 +1,22 @@
-h2{
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
     text-align: center;
-    margin-left: 10rem;
+    justify-content: center;
+}
+
+.btn-personalizado{
+    padding: 8px;
+}
+
+.navbar a{
+    margin-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
 }
