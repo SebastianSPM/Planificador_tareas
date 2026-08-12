@@ -1,6 +1,7 @@
 # PLANIFICADOR DE TAREAS
 
 ### Descripción
+Sirve para organizar, ordenar y dar seguimiento a las actividades diarias o pendientes. Permite fijar prioridades, repartir el tiempo de forma eficiente y evitar olvidar compromisos importantes mediante listas o calendarios.
 
 
 ### Trello
