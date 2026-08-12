@@ -13,5 +13,7 @@ Enlace: https://www.figma.com/proto/DiR9yVbwR3uZ7zC3e4MydZ/Sin-t%C3%ADtulo?node-
 
 ## Demo
 
+https://sebastianspm.github.io/Planificador_tareas/index.html
+
 
 
