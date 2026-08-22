@@ -1,4 +1,23 @@
-const validFormFieldInput = document.getElementById("validFormFieldInput");
+class TaskManager{
+    constructor(){
+        this.tasks = [];
+    }    
+}
+
+
+
+
+
+
+
+
+
+const taskManager = new TaskManager();
+console.log(taskManager.tasks);
+
+
+
+/*const validFormFieldInput = document.getElementById("validFormFieldInput");
 
 if(validFormFieldInput){
     validFormFieldInput.addEventListener("submit", (event) => {
@@ -86,4 +105,4 @@ if(validFormFieldInput){
         })
 
     })
-}
+}*/
